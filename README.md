@@ -11,7 +11,7 @@
 ## Installation
 
 ```
-$ conda env create --name simclr python=3.7
+$ conda create --name simclr python=3.7
 $ conda activate simclr
 $ conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
 $ pip install -r requirements.txt
