@@ -133,7 +133,7 @@ Note that SimCLR benefits from **longer training**.
 | Logistic Regression (Adam) | CIFAR10              | SimCLR            | [ResNet-18](https://drive.google.com/open?id=1lc2aoVtrAetGn0PnTkOyFzPCIucOJq7C) | 512                    | 128                            | 100    | 69.82  |
 | Logistic Regression (Adam) | STL10                | SimCLR            | [ResNet-50](https://drive.google.com/open?id=1ByTKAUsdm_X7tLcii6oAEl5qFRqRMZSu) | 2048                   | 128                            | 50     | 70.075 |
 | Logistic Regression (Adam) | ff_devices_unlabeled | SimCLR            | [ResNet-18](https://drive.google.com/open?id=14_nH2FkyKbt61cieQDiSbBVNP8-gtwgF) | 512                    | 128                            | 100    | 41.41  |
-| Logistic Regression (Adam) | ff_devices_one_shot  | SimCLR            | [ResNet-18](https://drive.google.com/open?id=14_nH2FkyKbt61cieQDiSbBVNP8-gtwgF) | 512                    | 128                            | 50     | 42.97  |
+| Logistic Regression (Adam) | ff_devices_one_shot  | SimCLR            | [ResNet-18](https://drive.google.com/open?id=14_nH2FkyKbt61cieQDiSbBVNP8-gtwgF) | 512                    | 128                            | 100     | 42.97  |
 
 ## Analysis for linear classification
 
