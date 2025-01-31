@@ -20,7 +20,7 @@ $ pip install -r requirements.txt
 ## Dataset Generation
 
 The original input dataset can be downloaded from [Firefighting schematics](https://universe.roboflow.com/yaid-pzikt/firefighting-device-detection/dataset/6). Please download the coc format version for compatibility. This data needs to be modified to bring into the training format.
-Both the input data and converted data for firefighting devices has been downloaded, pregenerated and saved in the datasets directory as ff_devices and ff_devices_individual respectively. If required, it can be regenerated using:
+Both the input data and converted data for firefighting devices has been downloaded, pregenerated and saved in the datasets directory as ff_devices and ff_devices_individual respectively, along with the trained checkpoints [Link to Drive](https://drive.google.com/drive/folders/10mmwIRmeUgIU4QU1-q4NnE97uGpS1JrI?usp=sharing). If required, it can be regenerated using:
 
 ```
 $ python data_gen/gen_data_from_schematics.py
