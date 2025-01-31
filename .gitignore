@@ -1,0 +1,11 @@
+# Ignore all __pycache__ directories
+__pycache__/
+
+# Ignore the runs folder
+runs/
+
+#Ignore datasets
+datasets/
+
+# Ignore checkpoints
+checkpoints/
